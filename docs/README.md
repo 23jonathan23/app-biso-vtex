@@ -12,14 +12,12 @@ Para instalar o aplicativo no admin e, assim, gerenciar suas badges, deve-se ent
   vtex install vtex.bisodigital@0.x
 ```
 
-Em seguida, já é possível adicionar o componente de badges em sua loja.
-
 ## O funcionamento
 
 ### No ADMIN
 
 Após instalar o aplicativo em sua loja, já estará disponível em seu ambiente ADMIN o aplicativo de Biso Digital.
-Para utilizá-lo, basta acessar a barra lateral em "OUTROS", a qual deve conter o aplicativo "Biso Digital".
+Para utilizá-lo, basta acessar a barra lateral em "Analytics", a qual deve conter o aplicativo "Biso Digital".
 Clicando no aplicativo, deverá visualizar a seguinte página:
 
 ```
