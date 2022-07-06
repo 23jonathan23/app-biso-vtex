@@ -1,0 +1,6 @@
+{
+  "admin.app.badges": {
+    "component": "AppBisoDigital",
+    "path": "/admin/app/bisoDigital"
+  }
+}
