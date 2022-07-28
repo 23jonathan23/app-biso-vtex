@@ -21,7 +21,15 @@
     "store": "0.x"
   },
   "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema",
-  "policies": [],
+  "policies": [
+    {
+      "name": "outbound-access",
+      "attrs": {
+        "host": "vnz1l13m92.execute-api.us-east-1.amazonaws.com",
+        "path": "*"
+      }
+    }
+  ],
   "settingsSchema": {
     "title": "App Biso Digital",
     "type": "object",
