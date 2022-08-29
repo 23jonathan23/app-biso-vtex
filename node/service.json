@@ -1,14 +1,14 @@
 {
-    "memory": 256,
-    "ttl": 120,
-    "timeout": 10,
-    "minReplicas": 1,
-    "maxReplicas": 2,
-    "workers": 1,
-    "routes": {
-      "email": {
-        "path": "/email/send",
-        "public": true
-      }
+  "memory": 128,
+  "ttl": 10,
+  "timeout": 10,
+  "minReplicas": 2,
+  "maxReplicas": 10,
+  "workers": 4,
+  "routes": {
+    "biso": {
+      "path": "/email/send",
+      "public": true
     }
   }
+}

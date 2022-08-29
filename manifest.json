@@ -2,9 +2,8 @@
   "name": "bisodigital",
   "vendor": "bisopartnerbr",
   "version": "1.0.0",
-  "title": "Biso Digital",
-  "description": "Plataforma de Inteligência Artificial para E-commerce.",
-  "mustUpdateAt": "",
+  "title": "Biso",
+  "description": "Somos uma plataforma de inteligência artificial centralizadora de dados para e-commerce.",
   "scripts": {
     "postreleasy": "vtex publish"
   },
@@ -21,30 +20,29 @@
     "store": "0.x"
   },
   "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema",
+  "credentialType": "absolute",
   "policies": [
+    {
+      "name": "ADMIN_DS"
+    },
     {
       "name": "outbound-access",
       "attrs": {
-        "host": "vnz1l13m92.execute-api.us-east-1.amazonaws.com",
+        "host": "mt1q8cl1b1.execute-api.us-east-1.amazonaws.com",
         "path": "*"
       }
     }
   ],
   "settingsSchema": {
-    "title": "App Biso Digital",
+    "title": "App Biso",
     "type": "object",
-    "properties": {
-      "activeHtml": {
-        "title": "Activate HTML",
-        "description": "Make it possible to add HTML on biso digital app.",
-        "type": "boolean"
-      }
-    }
+    "properties": {}
   },
   "billingOptions": {
     "type": "free",
     "support": {
-      "url": "https://www.bisodigital.com.br/"
+      "url": "https://www.biso.digital/contato",
+      "email": "contato@biso.digital"
     },
     "availableCountries": [
       "*"

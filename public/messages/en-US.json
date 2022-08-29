@@ -1,0 +1,18 @@
+{
+  "name": "Biso",
+  "headline": "We are a data-centric artificial intelligence platform for e-commerce.",
+  "overview": "We complement the VTEX Sales Dashboard and offer a 360° view of the operation in a few clicks. Through custom dashboards, we monitor KPIs and other active solutions to generate daily insights and solve your problems in a fully automated way. \n Thus, we facilitate decision-making for the entire team and provide gains such as: revenue growth, increased team efficiency and increasingly faster business decisions. \n As our AI algorithm is constantly evolving, the platform What you hire today won't be the same tomorrow. In addition, we are among the 5 global startups selected for the VTEX Accelerator to accelerate our mission to automate processes and provide users with more time. \n Do like +55 companies like New Balance , Grupo Malwee, Ibyte, and acquire the ideal solution for managers looking to reduce their spending in the technology area and optimize time when it comes to data analysis.",
+  "features": [
+    "Custom Dashboards",
+    "Weekly reports (smart reports) that give you the direction of the main points of attention and opportunities that directly impact your campaigns",
+    "Task management for the entire team, in this way it is possible to organize all macro tasks, align the priorities of the day and optimize time",
+    "Automatic alerts let you know when something goes awry, whether it's a goal with positive or negative variance",
+    "Anticipation of actions based on pattern recognition and your brand's historical series, so you can better understand the purchase journey and, consequently, convert more"
+  ],
+  "additionalinformation": "We connect your data sources with: Amazon Z3, Anymarket, Facebook Ads, FTP, Google Ads, Google Analytics, Google Analytics 4, Intelipost, Ominichat, Power BI, Salesforce Marketing Cloud, Shopify, Trello and VTEX. If yours is not here, please contact us, as our solution is built using the API First concept, which makes it easy to build new connectors quickly.",
+  "websiteURL": "<https://www.biso.digital>",
+  "support": {
+    "url": "https://www.biso.digital/contato",
+    "email": "contato@biso.digital"
+  }
+}

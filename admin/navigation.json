@@ -1,6 +1,6 @@
 {
   "section": "analytics",
-  "titleId": "admin/bisoDigital.navigation.label",
+  "titleId": "admin/biso.navigation.label",
   "icon": "extensions-ic",
-  "path": "/admin/bisoDigital"
+  "path": "/admin/biso"
 }

@@ -1,5 +1,5 @@
 {
-  "store-app-biso-digital": {
-    "component": "AppBisoDigital"
+  "store-app-biso": {
+    "component": "AppBiso"
   }
 }

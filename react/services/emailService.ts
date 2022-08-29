@@ -10,8 +10,6 @@ const sendEmail = async (customerName: string, customerEmail: string) => {
         body: JSON.stringify(data)
     });
 
-    console.log(response)
-
     if(response.status !== 200) {
         throw new Error('Error sending email')
     }
