@@ -6,6 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.7] - 2022-10-06
+### Fix
+- store builder removed
+
+## [1.0.6] - 2022-10-05
+
 ## [1.0.5] - 2022-08-29
 
 ## [1.0.4] - 2022-08-29
