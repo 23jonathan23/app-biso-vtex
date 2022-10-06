@@ -1,7 +1,7 @@
 {
   "name": "bisodigital",
   "vendor": "bisopartnerbr",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "title": "Biso",
   "description": "Somos uma plataforma de inteligência artificial centralizadora de dados para e-commerce.",
   "scripts": {
@@ -16,8 +16,7 @@
     "admin": "0.x",
     "messages": "1.x",
     "docs": "0.x",
-    "node": "6.x",
-    "store": "0.x"
+    "node": "6.x"
   },
   "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema",
   "credentialType": "absolute",
