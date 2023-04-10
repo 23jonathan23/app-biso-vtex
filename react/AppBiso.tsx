@@ -59,14 +59,14 @@ const AppBiso = (): JSX.Element => {
                                 Para a gente, é uma alegria ter você para se unir ao nosso universo. Vamos juntos impulsionar e inovar o mundo digital.
                             </p>
                             <p>
-                                Em breve nosso time de especialistas entrará em contato para iniciarmos a integração do seu e-commerce com a nossa plataforma.
+                                Em breve você receberá um e-mail para agendar uma reunião que dará início a nossa jornada juntos e receber os acessos da plataforma.
                             </p>
                             <p>
-                                Enquanto isso, separamos algumas perguntas (leva 4 minutos!) para entendermos melhor quais necessidades você busca solucionar com a nossa plataforma e te oferecer um atendimento ainda mais personalizado:<span> </span>
+                                Caso queira se adiantar, separamos algumas perguntas (leva 4 minutos!) para entendermos melhor quais necessidades você busca solucionar com a nossa plataforma e te oferecer um atendimento ainda mais personalizado:<span> </span>
                                 <a href='https://bit.ly/3Ih0Gfe' target="_blank" style={{ color: 'rgb(249, 12, 104)' }}>clique aqui</a>
                             </p>
                             <p>
-                                Prepare-se para transformar os seus dados em informações relevantes para o seu negócio!
+                                Prepare-se para transformar os seus dados em informações relevantes que aumentaram o faturamento do seu negócio!
                             </p>
                         </div>
                     </Modal>
